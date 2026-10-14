@@ -2,7 +2,7 @@
 
 **M.Sc. Dissertation Project | Statistics and Computing**
 
-This project was completed as part of my Master of Science in Statistics and Computing at Banaras Hindu University (BHU), under the guidance of Prof. Sanjeev Kumar.
+This project was completed as part of my Master of Science in Statistics and Computing at **Banaras Hindu University (BHU)**, under the guidance of **Prof. Sanjeev Kumar**.
 
 The study investigates air pollution patterns across monitoring stations in India using multivariate statistical techniques and hypothesis testing in R. It explores differences in pollutant concentrations, relationships among pollutants, underlying pollution factors, and similarities between monitoring stations.
 
